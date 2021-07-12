@@ -76,6 +76,18 @@ export const constantRoutes = [
       }
     ]
   },
+  {
+    path: '/fang',
+    component: Layout,
+    children: [
+      {
+        path: 'fang',
+        name: 'Fang',
+        component: () => import('@/views/fang/index'),
+        meta: { title: 'Fang', icon: 'form' }
+      }
+    ]
+  },
 
   {
     path: '/form',
@@ -89,7 +101,6 @@ export const constantRoutes = [
       }
     ]
   },
-
   {
     path: '/nested',
     component: Layout,
