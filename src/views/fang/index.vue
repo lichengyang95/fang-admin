@@ -1,5 +1,8 @@
 <template>
-  <div>fang</div>
+  <div>fang
+    <div>新代码</div>
+  </div>
+  
 </template>
 
 <script>
