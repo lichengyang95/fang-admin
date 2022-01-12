@@ -2,7 +2,7 @@
   <div>fang
     <div>新代码</div>
     <div>继续开发继续开发</div>
-    <div>修改的代码</div>
+    <div>修改的代码+12</div>
   </div>
   
 </template>
