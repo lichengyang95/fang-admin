@@ -1,5 +1,5 @@
 <template>
-  <div>fang</div>
+  <div>fang-uat</div>
 </template>
 
 <script>
