@@ -1,5 +1,9 @@
 <template>
-  <div>fang-uat</div>
+  <div>fang
+    <div>新代码</div>
+    <div>修改的代码</div>
+  </div>
+  
 </template>
 
 <script>
